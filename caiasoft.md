@@ -15,7 +15,7 @@ https://www.notion.so/atlassys/Caiasoft-Offsite-Request-Addon-5b357978ea2747759c
 * Submit ticket to [support@atlas-sys.com](mailto:support@atlas-sys.com) to install Aeon API (if hosted server)
 * Discuss desired processing queues (use workflow example to guide discussion)
     * configure queues in Queues table of Customization Manager 
-    * Note: an error queue is required)
+    * Note: an error queue is required
 * Get API key and Caiasoft server URL from Caiasoft
 * Provide Caiasoft with Aeon API key (found in WebPlatformConfig) and list of Queue IDs used for workflow (specifically steps where Caia will be updating Aeon)
 * Install addon in Aeon Customization Manager and configure using Caiasoft URL, API key, and queues specified in workflow (need to configure queues for initial retrieval in addon)
@@ -45,6 +45,9 @@ Note: all queue names are suggestions
 * Request status will change to Awaiting Item Reshelving - Offsite (OPTIONAL)
 * When materials are put away in their permanent storage location, offsite staff will transmit one file file update
 * Request status will change to Request Finished
+
+! [flowchart showing workflow outlined above in visual chart](\assets\images\Aeon Caiasoft Default Workflow.png)
+
 
 ## Questions?
 
