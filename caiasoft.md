@@ -12,7 +12,7 @@ https://www.notion.so/atlassys/Caiasoft-Offsite-Request-Addon-5b357978ea2747759c
 
 ## Implementation steps:
 
-* Submit ticket to support@atlas-sys.com to install Aeon API (if hosted server)
+* Submit ticket to [support@atlas-sys.com](mailto:support@atlas-sys.com) to install Aeon API (if hosted server)
 * Discuss desired processing queues (use workflow example to guide discussion)
     * configure queues in Queues table of Customization Manager 
     * Note: an error queue is required)
