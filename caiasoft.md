@@ -46,7 +46,7 @@ Note: all queue names are suggestions
 * When materials are put away in their permanent storage location, offsite staff will transmit one file file update
 * Request status will change to Request Finished
 
-! [flowchart showing workflow outlined above in visual chart](\assets\images\Aeon Caiasoft Default Workflow.png)
+! [flowchart showing workflow outlined above](futureDocs\assets\images\Aeon Caiasoft Default Workflow.png)
 
 
 ## Questions?
