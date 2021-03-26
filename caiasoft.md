@@ -8,21 +8,17 @@ nav_order: 1
     Table of contents
   </summary>
   {: .text-delta }
-1. Addon files
-2. Implementation steps
-3. Caiasoft Offsite Request Workflow
-4. Flowchart
-5. Questions?
+1. TOC
 {:toc}
 </details>
 
 # Caiasoft Offsite Request Addon
 
-## Addon files: 
+## Addon files 
 
 https://www.notion.so/atlassys/Caiasoft-Offsite-Request-Addon-5b357978ea2747759c00938afd1d7936#3e34b91da6e64e1e8fc1d226b94d067f
 
-## Implementation steps:
+## Implementation steps
 
 * Submit ticket to [support@atlas-sys.com](mailto:support@atlas-sys.com) to install Aeon API (if hosted server)
 * Discuss desired processing queues (use [flowchart](#flowchart) example to guide discussion)
@@ -38,7 +34,7 @@ https://www.notion.so/atlassys/Caiasoft-Offsite-Request-Addon-5b357978ea2747759c
 * Go Live! 
 
 
-## Caiasoft Offsite Request Workflow:
+## Caiasoft Offsite Request Workflow
 
 Note: all queue names are suggestions
 
