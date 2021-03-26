@@ -14,6 +14,8 @@ nav_order: 1
 
 # Caiasoft Offsite Request Addon
 
+This document provides an overview of the implementation steps and workflow options for the Caiasoft Offsite Request Addon for Aeon. Follow the steps below to configure and test your addon.
+
 ## Addon files 
 
 https://www.notion.so/atlassys/Caiasoft-Offsite-Request-Addon-5b357978ea2747759c00938afd1d7936#3e34b91da6e64e1e8fc1d226b94d067f
