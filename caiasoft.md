@@ -3,6 +3,18 @@ title: Caiasoft Offsite Request Addon
 layout: default
 nav_order: 1
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. Addon files
+2. Implementation steps
+3. Caiasoft Offsite Request Workflow
+4. Flowchart
+5. Questions?
+{:toc}
+</details>
 
 # Caiasoft Offsite Request Addon
 
@@ -13,7 +25,7 @@ https://www.notion.so/atlassys/Caiasoft-Offsite-Request-Addon-5b357978ea2747759c
 ## Implementation steps:
 
 * Submit ticket to [support@atlas-sys.com](mailto:support@atlas-sys.com) to install Aeon API (if hosted server)
-* Discuss desired processing queues (use workflow example to guide discussion)
+* Discuss desired processing queues (use [flowchart](#flowchart) example to guide discussion)
     * configure queues in Queues table of Customization Manager 
     * Note: an error queue is required
 * Get API key and Caiasoft server URL from Caiasoft
@@ -46,6 +58,7 @@ Note: all queue names are suggestions
 * When materials are put away in their permanent storage location, offsite staff will transmit one file file update
 * Request status will change to Request Finished
 
+## Flowchart
 ! [flowchart showing workflow outlined above](futureDocs\assets\images\Aeon Caiasoft Default Workflow.png)
 
 
